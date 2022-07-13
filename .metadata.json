@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "BayesFactor",
+    "oncran": true
+  }
+]
